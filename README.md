@@ -4,6 +4,9 @@ This is a real-time Memory Matching Game built using HTML, CSS, and JavaScript. 
 # 🎯 Memory Game
 A real-time Memory Matching Game developed as part of the *CodeClause Web Development Internship*.
 
+## 🚀 Live Demo
+[Click here to play the game!](https://ramyasri0809.github.io/CodeClauseInternship_MemoryGame/)
+
 ## 📌 Description
 This project is a fun and interactive memory card game where users try to match pairs of emoji cards. The game keeps track of:
 - ⏱ Time taken
