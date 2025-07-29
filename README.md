@@ -1,4 +1,4 @@
-<img width="1018" height="705" alt="image" src="https://github.com/user-attachments/assets/fef48158-8385-4b88-919a-04cb1894f687" /># CodeClauseInternship_MemoryGame
+# CodeClauseInternship_MemoryGame
 This is a real-time Memory Matching Game built using HTML, CSS, and JavaScript. Users can match pairs of emoji cards with features like a timer, flip counter, score tracking, and restart button. It includes sound effects for flipping, matching, mismatching, winning, and losing which makes the game to be more interactive and fun.
 
 # 🎯 Memory Game
@@ -29,6 +29,11 @@ This project is a fun and interactive memory card game where users try to match 
 - Restart game button
 - Sound effects for interactions
 - End game messages with win/lose status
+
+## 📷 Screenshot
+<img width="1018" height="705" alt="image" src="https://github.com/user-attachments/assets/c80ad594-047b-4b9b-bf99-0688cbd2aa40" />
+
+
 
 ## 🚀 How to Run
 1. Clone or download this repository.
