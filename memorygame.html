@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Memory Game</title>
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="memorygame-style.css"/>
+</head>
+<body>
+  <h1>🎯 Memory Game</h1>
+  <div id="status">
+    ⏱ Time: <span id="timer">0</span> sec |
+    ✅ Matches: <span id="score">0</span> |
+    🔄 Flips: <span id="flips">0</span>
+  </div>
+  <div class="game-board" id="gameBoard"></div>
+  <p id="message"></p>
+  <button onclick="resetGame()">🔁 Restart</button>
+  <script src="memorygame-logic.js"></script>
+</body>
+</html>
